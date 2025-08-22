@@ -1,3 +1,4 @@
+![Results](https://github.com/aritra01-coder/Stock-sentiment---NLP/blob/cb1cdef619a9f716546c4f752da47b565f25be9d/images.jpeg)
 # Stock-sentiment Analysis-NLP
 
 # 📰 News Sentiment Analysis (2017–2021)
